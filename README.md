@@ -10,7 +10,7 @@ PyScript is a framework that allows users to create rich Python applications in 
 <b>For more info visit https://pyscript.net/.
 
 # Current Projects
- - Hex to bin converter.
+ - Hex to bin converter. <a href="https://hextobin.netlify.app/">hextobin.netlify.app</a>
  
 <i> a lot more soon</i>
    
