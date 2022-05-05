@@ -7,10 +7,10 @@ PyScript is a framework that allows users to create rich Python applications in 
 * similar to `script` tag for javascript
 * Enable using Python libraries with HTMl
 
-<b>For more info visit https://pyscript.net/.
+<i><b>For more info about Pyscript: https://pyscript.net/.</i>
 
 # Current Projects
- - Hex to bin converter. <a href="https://hextobin.netlify.app/">hextobin.netlify.app</a>
- 
-<i> a lot more soon</i>
+ - Hex to bin converter. <a href="https://hextobin.netlify.app/">hextobin.netlify.app</a><br>
+  
+<i>For more examples: https://pyscript.net/examples/</b></i>
    
