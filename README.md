@@ -14,3 +14,4 @@ PyScript is a framework that allows users to create rich Python applications in 
   
 <i>For more examples: https://pyscript.net/examples/</b></i>
    
+
