@@ -11,6 +11,7 @@ PyScript is a framework that allows users to create rich Python applications in 
 
 # Current Projects
  - Hex to bin converter. <a href="https://hextobin.netlify.app/">hextobin.netlify.app</a><br>
+ - <a href="https://github.com/Oussama1403/Pyscript-Offline">Pyscript Offline</a>
   
 <i>For more examples: https://pyscript.net/examples/</b></i>
    
